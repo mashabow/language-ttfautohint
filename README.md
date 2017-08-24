@@ -1,3 +1,3 @@
-# PackageName language package
+# language-ttfautohint
 
-A short description of your language package.
+Adds syntax highlighting to [ttfautohint control instructions files](https://www.freetype.org/ttfautohint/doc/ttfautohint.html#control-instructions) in Atom.

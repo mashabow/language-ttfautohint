@@ -1,12 +1,12 @@
 {
   "name": "language-ttfautohint",
   "version": "0.0.0",
-  "description": "A short description of your language package",
+  "description": "Adds syntax highlighting to ttfautohint control instructions files in Atom",
   "keywords": [
     "language",
     "grammar"
   ],
-  "repository": "https://github.com/atom/language-ttfautohint",
+  "repository": "https://github.com/mashabow/language-ttfautohint",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
