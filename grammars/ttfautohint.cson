@@ -22,7 +22,7 @@
   }
   {
     'name': 'keyword.ttfautohint'
-    'match': '\\b(point|touch|xshift|yshift|left|right|nodir|[ptxylrn])\\b'
+    'match': '\\b(point|touch|xshift|yshift|left|right|nodir|width|[ptxylrnw])\\b'
   }
   {
     'name': 'string.ttfautohint'
